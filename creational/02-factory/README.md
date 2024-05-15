@@ -1,0 +1,1 @@
+The factory pattern creates objects from a common interface using a method that is implemented in a subclass. This pattern is used when we have a superclass with multiple subclasses and based on input, we need to return one of the subclasses.

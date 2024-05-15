@@ -1,0 +1,1 @@
+The singleton pattern is a pattern that assures that only one instance of a class is instantiated. Also, it provides a single point of access to that instance. 
